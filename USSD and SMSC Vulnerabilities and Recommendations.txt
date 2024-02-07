@@ -1,6 +1,6 @@
 USSD Vulnerabilities and Recommendations
 
-Vulnerabilities
+USSD Vulnerabilities
 - Session hijacking
 - phishing attacks
 - spoofing
